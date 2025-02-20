@@ -3,4 +3,4 @@ JavaScript-basics-to-advance course codes and other details are covered here. Vi
 
 DAY 1: Learning to build codespaces in Github, What are variables and how to use them.
 
-DAY 2: 
+DAY 2: Learning DataTypes & documentation. 
